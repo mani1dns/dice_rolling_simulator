@@ -42,4 +42,9 @@ while x == "y":
         print("| O     O |")
         print("-----------")
 
-    
+    if number == 6:
+        print("-----------")
+        print("| O     O |")
+        print("| O     O |")
+        print("| O     O |")
+        print("-----------")
