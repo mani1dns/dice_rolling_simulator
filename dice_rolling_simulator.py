@@ -35,4 +35,11 @@ while x == "y":
         print("| O     O |")
         print("-----------")
 
+    if number == 5:
+        print("-----------")
+        print("| O     O |")
+        print("|    O    |")
+        print("| O     O |")
+        print("-----------")
+
     
