@@ -14,4 +14,11 @@ while x == "y":
         print("|         |")
         print("-----------")
 
+    if number == 2:
+        print("-----------")
+        print("|         |")
+        print("| O     O |")
+        print("|         |")
+        print("-----------")
+
     
