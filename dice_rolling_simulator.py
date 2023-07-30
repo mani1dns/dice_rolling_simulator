@@ -28,4 +28,11 @@ while x == "y":
         print("|         |")
         print("-----------")
 
+    if number == 4:
+        print("-----------")
+        print("| O     O |")
+        print("|         |")
+        print("| O     O |")
+        print("-----------")
+
     
